@@ -1,2 +1,2 @@
 # company-management
-Company Management API developed for study and portfolio
+Company Management API built for study and portfolio
